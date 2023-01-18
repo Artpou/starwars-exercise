@@ -45,7 +45,7 @@ npm run client
 
 ## Utilisation
 
-Une fois le projet lancé, vous pourrez accéder à l'application via l'URL http://localhost:3000/
+Une fois le projet lancé, vous pourrez accéder au serveur sur le port [8000](http://localhost:8000) et au client sur le port [3000](http://localhost:3000).
 
 ## License
 
