@@ -1,7 +1,6 @@
 # Exercice : Star Wars Rebels Alliance Search System
 
 Ce projet est un exercice de développement web diponible sur [GitHub](https://github.com/KrashStudio/react-exercice).
-Une version en ligne est disponible sur [Netlify](https://starwars-exercise.netlify.app/).
 
 ## Stack technique
 
